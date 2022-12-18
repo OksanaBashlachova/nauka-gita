@@ -2,9 +2,10 @@
 
 body {
     margin: 30px 30px 30px 30px;
+    text-align: center;
 }
 
 
-.page-title span {
+span {
     font-style: oblique;    
 }
